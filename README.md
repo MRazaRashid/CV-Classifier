@@ -1,4 +1,4 @@
-# AI Resume Critiquer
+# CV Classifier 
 
 AI Resume Critiquer is a **Streamlit-based web application** that analyzes resumes using the **OpenAI API**. Users can upload a **PDF or TXT resume**, optionally enter a **target job title**, and receive structured feedback on resume quality, clarity, skills, and experience to improve job applications.
 
